@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DevWeekends_DSA_questions/DevWeekends_DSA_questions.iml" filepath="$PROJECT_DIR$/DevWeekends_DSA_questions/DevWeekends_DSA_questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/New folder.iml" filepath="$PROJECT_DIR$/.idea/New folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_problems/array_problems.iml" filepath="$PROJECT_DIR$/array_problems/array_problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary_search_in_2Darray/binary_search_in_2Darray.iml" filepath="$PROJECT_DIR$/binary_search_in_2Darray/binary_search_in_2Darray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary_search_questions/binary_search_questions.iml" filepath="$PROJECT_DIR$/binary_search_questions/binary_search_questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binay_search/binay_search.iml" filepath="$PROJECT_DIR$/binay_search/binay_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion_arrays/recursion_arrays.iml" filepath="$PROJECT_DIR$/recursion_arrays/recursion_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching/searching.iml" filepath="$PROJECT_DIR$/searching/searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swap_number/swap_number.iml" filepath="$PROJECT_DIR$/swap_number/swap_number.iml" />
+    </modules>
+  </component>
+</project>
